@@ -100,45 +100,7 @@
 
 ---
 
-## 🏆 **Achievements & Impact**
 
-• 🥇 **20+ AI/ML Projects** successfully deployed and maintained
-• 🏅 **RAG Expert** with hands-on experience in document-based Q&A systems
-• 🎯 **Prompt Engineering Specialist** optimizing LLM responses for various use cases
-• 📜 **Technical Writer** - Published AI/ML articles on Medium
-• 🌟 **Innovation Leader** in automated collision-free route planning
-• 🤖 **Chatbot Architect** - Built 15+ conversational AI systems
-
----
-
-## 📈 **GitHub Stats & Activity**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipanshu180&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanshu180&layout=compact&theme=radical" alt="Top Languages">
-</div>
-
----
-
-## 🤝 **Connect With Me**
-
-<div align="center">
-  <a href="https://linkedin.com/in/dipanshu-shukla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://medium.com/@dipanshu180"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="https://stackoverflow.com/users/dipanshu180"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
-  <a href="https://dipanshu180.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:dipanshu180503@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dipanshu180&color=blueviolet&style=for-the-badge" alt="Profile Views">
-</div>
-
-### 💝 **Ready for AI Engineering/ML Internships!**
-
-**Let's build the future with AI & Machine Learning! 🚀**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation">
