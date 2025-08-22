@@ -17,7 +17,7 @@
 - 👯 I'm looking to collaborate on **AI/ML projects, open source contributions**
 - 🤔 I'm looking for help with **Large Language Models and distributed systems**
 - 💬 Ask me about **Python, Machine Learning, Data Science, Web Development**
-- 📫 How to reach me: **dipanshu180@gmail.com**
+- 📫 How to reach me: **dipanshu180503@gmail.com**
 - ⚡ Fun fact: **I love automating boring tasks and building chatbots!**
 
 ---
@@ -123,12 +123,9 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/dipanshu-shukla" target="_blank">
+  <a href="https://www.linkedin.com/in/dipanshu-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/dipanshu_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
+  </
   <a href="https://medium.com/@dipanshu180" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
@@ -138,7 +135,7 @@
   <a href="https://dipanshu180.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio">
   </a>
-  <a href="mailto:dipanshu180@gmail.com">
+  <a href="mailto:dipanshu180503@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
