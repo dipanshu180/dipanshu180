@@ -18,103 +18,96 @@
 
 ## 🧑‍💻 About Me
 
-- 🤖 **AI/ML Specialist** focused on **LLMs, RAG systems, and prompt engineering**
-- 🚀 **Backend Developer** with expertise in **Flask, FastAPI, and API development**
-- 🔭 Currently working on **intelligent AI solutions and conversational AI systems**
-- 🌱 Learning **Advanced LLM fine-tuning, Vector databases, and MLOps**
-- 👯 Looking to collaborate on **AI/ML projects, LLM applications, and RAG systems**
-- 🎯 **Seeking AI Engineering/ML internships** to apply cutting-edge AI technologies
-- 💬 Ask me about **Python, LLMs, RAG, Prompt Engineering, Flask, FastAPI, ML**
-- 📫 **Contact:** dipanshu180503@gmail.com
-- ⚡ **Expertise:** Building chatbots, conversational AI, and automated intelligent systems
+• 🤖 **AI/ML Specialist** focused on **LLMs, RAG systems, and prompt engineering**
+• 🚀 **Backend Developer** with expertise in **Flask, FastAPI, and API development**
+• 🔭 Currently working on **intelligent AI solutions and conversational AI systems**
+• 🌱 Learning **Advanced LLM fine-tuning, Vector databases, and MLOps**
+• 👯 Looking to collaborate on **AI/ML projects, LLM applications, and RAG systems**
+• 🎯 Seeking **AI Engineering/ML internships** to apply cutting-edge AI technologies
+• 💬 Ask me about **Python, LLMs, RAG, Prompt Engineering, Flask, FastAPI, ML**
+• 📫 Contact: **dipanshu180503@gmail.com**
+• ⚡ Expertise: **Building chatbots, conversational AI, and automated intelligent systems**
 
 ---
 
 ## 🛠️ **Core AI/ML Tech Stack**
 
 ### 🤖 **AI/ML & LLM Technologies**
-<div align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/Langchain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="Langchain">
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-</div>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"> <img src="https://img.shields.io/badge/Langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="Langchain"> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
 
 ### 🐍 **Programming & Backend**
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-</div>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 
 ### 📊 **Data Science & Analytics**
-<div align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
-</div>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"> <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
 
 ### 🗄️ **Databases & Vector Stores**
-<div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Chroma-000000?style=for-the-badge&logo=chromadb&logoColor=white" alt="ChromaDB">
-</div>
+
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=chromadb&logoColor=white" alt="ChromaDB">
 
 ---
 
-## 🚀 **Featured AI/ML Projects**
+## 🚀 Featured AI/ML Projects
 
 ### 🤖 **LLM & RAG Systems**
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[MultiPDF-Chat-App](https://github.com/dipanshu180/MultiPDF-Chat-App)** | RAG-powered chatbot for multi-document Q&A using LLMs | LangChain, OpenAI, Streamlit, Vector DB |
-| **[Nursing-Admission-Chatbot](https://github.com/dipanshu180/Nursing-Admission-Chatbot)** | Conversational AI for healthcare admission processes | NLP, Flask, Machine Learning |
-| **[Smart-Voice-Assistant](https://github.com/dipanshu180/Smart-Voice-Assistant)** | AI-powered voice assistant with NLP capabilities | Speech Recognition, NLP, Python |
-| **[chatbot](https://github.com/dipanshu180/chatbot..)** | Advanced conversational AI system with prompt engineering | Python, ML, Natural Language Processing |
+• **🔗 [MultiPDF-Chat-App](https://github.com/dipanshu180/MultiPDF-Chat-App)** - RAG-powered chatbot enabling intelligent Q&A across multiple PDF documents using advanced LLMs and vector embeddings
+  - *Tech Stack: LangChain, OpenAI GPT, Streamlit, Vector Databases, PDF Processing*
+
+• **🏥 [Nursing-Admission-Chatbot](https://github.com/dipanshu180/Nursing-Admission-Chatbot)** - Conversational AI assistant streamlining healthcare admission processes with NLP-driven interactions
+  - *Tech Stack: NLP, Flask, Machine Learning, Healthcare APIs, Dialog Management*
+
+• **🎙️ [Smart-Voice-Assistant](https://github.com/dipanshu180/Smart-Voice-Assistant)** - AI-powered voice assistant with advanced speech recognition and natural language understanding
+  - *Tech Stack: Speech Recognition, NLP, Python, Voice Processing, AI Models*
+
+• **💬 [Advanced Chatbot](https://github.com/dipanshu180/chatbot)** - Sophisticated conversational AI system with optimized prompt engineering and context awareness
+  - *Tech Stack: Python, Machine Learning, NLP, Prompt Engineering, Context Management*
+
+---
 
 ### 🔬 **Machine Learning & Predictive Analytics**
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[HeartDiseasePrediction](https://github.com/dipanshu180/HeartDiseasePrediction)** | ML model for cardiovascular disease prediction | Scikit-learn, Pandas, NumPy |
-| **[Real-State-Price-Prediction-Web-Application](https://github.com/dipanshu180/Real-State-Price-Prediction-Web-Application)** | Full-stack ML web app for real estate price forecasting | Flask, ML, HTML/CSS, JavaScript |
+• **❤️ [HeartDiseasePrediction](https://github.com/dipanshu180/HeartDiseasePrediction)** - ML model predicting cardiovascular disease risk using clinical data and advanced algorithms
+  - *Tech Stack: Scikit-learn, Pandas, NumPy, Medical Data Analysis, Feature Engineering*
+
+• **🏠 [Real-Estate-Price-Prediction](https://github.com/dipanshu180/Real-State-Price-Prediction-Web-Application)** - Full-stack ML web application for accurate real estate price forecasting with interactive UI
+  - *Tech Stack: Flask, Machine Learning, HTML/CSS, JavaScript, Data Visualization*
+
+---
 
 ### 🛠️ **Backend & Automation**
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[API-Automation-Testing](https://github.com/dipanshu180/API-Automation-Testing)** | Automated testing framework for REST APIs | Python, Flask/FastAPI, Testing |
-| **[Automatic-Collision-Free-Route-Planning](https://github.com/dipanshu180/Automatic-Collision-Free-Route-Planning)** | AI-powered route optimization with collision avoidance | Python, Algorithms, Machine Learning |
+• **🧪 [API-Automation-Testing](https://github.com/dipanshu180/API-Automation-Testing)** - Comprehensive automated testing framework for REST APIs with CI/CD integration
+  - *Tech Stack: Python, Flask/FastAPI, Testing Frameworks, API Testing, Automation*
+
+• **🚗 [Collision-Free-Route-Planning](https://github.com/dipanshu180/Automatic-Collision-Free-Route-Planning)** - AI-powered route optimization system with real-time collision avoidance algorithms
+  - *Tech Stack: Python, Pathfinding Algorithms, Machine Learning, Optimization, Spatial Analysis*
 
 ---
 
 ## 🎯 **AI/ML Specializations**
 
-- 🧠 **Large Language Models (LLMs)**: OpenAI GPT, Hugging Face Transformers
-- 🔗 **RAG Systems**: Vector databases, semantic search, document Q&A
-- ⚡ **Prompt Engineering**: Few-shot learning, chain-of-thought, prompt optimization
-- 🐍 **Backend Development**: Flask, FastAPI, RESTful APIs, microservices
-- 🤖 **Conversational AI**: Chatbots, voice assistants, NLP pipelines
-- 📊 **ML Engineering**: Model deployment, MLOps, automated testing
-- 🗄️ **Vector Databases**: ChromaDB, Pinecone, similarity search
+• 🧠 **Large Language Models (LLMs)**: OpenAI GPT, Hugging Face Transformers
+• 🔗 **RAG Systems**: Vector databases, semantic search, document Q&A
+• ⚡ **Prompt Engineering**: Few-shot learning, chain-of-thought, prompt optimization
+• 🐍 **Backend Development**: Flask, FastAPI, RESTful APIs, microservices
+• 🤖 **Conversational AI**: Chatbots, voice assistants, NLP pipelines
+• 📊 **ML Engineering**: Model deployment, MLOps, automated testing
+• 🗄️ **Vector Databases**: ChromaDB, Pinecone, similarity search
 
 ---
 
 ## 🏆 **Achievements & Impact**
 
-- 🥇 **20+ AI/ML Projects** successfully deployed and maintained
-- 🏅 **RAG Expert** with hands-on experience in document-based Q&A systems
-- 🎯 **Prompt Engineering Specialist** optimizing LLM responses for various use cases
-- 📜 **Technical Writer** - Published AI/ML articles on Medium
-- 🌟 **Innovation Leader** in automated collision-free route planning
-- 🤖 **Chatbot Architect** - Built 15+ conversational AI systems
+• 🥇 **20+ AI/ML Projects** successfully deployed and maintained
+• 🏅 **RAG Expert** with hands-on experience in document-based Q&A systems
+• 🎯 **Prompt Engineering Specialist** optimizing LLM responses for various use cases
+• 📜 **Technical Writer** - Published AI/ML articles on Medium
+• 🌟 **Innovation Leader** in automated collision-free route planning
+• 🤖 **Chatbot Architect** - Built 15+ conversational AI systems
 
 ---
 
@@ -143,7 +136,8 @@
   <img src="https://komarev.com/ghpvc/?username=dipanshu180&color=blueviolet&style=for-the-badge" alt="Profile Views">
 </div>
 
-### 💝 **Ready for AI Engineering/ML Internships!** 
+### 💝 **Ready for AI Engineering/ML Internships!**
+
 **Let's build the future with AI & Machine Learning! 🚀**
 
 <div align="center">
