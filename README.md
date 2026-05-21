@@ -10,23 +10,17 @@
 
 ---
 
-## 🎯 **AI Engineering & ML Internship Ready**
+## About Me
 
-**Passionate AI/ML Engineer specializing in Large Language Models, RAG systems, and prompt engineering. Expert in backend development with Flask/FastAPI, building scalable AI-powered applications and intelligent solutions.**
-
----
-
-## 🧑‍💻 About Me
-
-• 🤖 **AI/ML Specialist** focused on **LLMs, RAG systems, and prompt engineering**
-• 🚀 **Backend Developer** with expertise in **Flask, FastAPI, and API development**
-• 🔭 Currently working on **intelligent AI solutions and conversational AI systems**
-• 🌱 Learning **Advanced LLM fine-tuning, Vector databases, and MLOps**
-• 👯 Looking to collaborate on **AI/ML projects, LLM applications, and RAG systems**
-• 🎯 Seeking **AI Engineering/ML internships** to apply cutting-edge AI technologies
-• 💬 Ask me about **Python, LLMs, RAG, Prompt Engineering, Flask, FastAPI, ML**
-• 📫 Contact: **dipanshu180503@gmail.com**
-• ⚡ Expertise: **Building chatbots, conversational AI, and automated intelligent systems**
+• **AI/ML Specialist** focused on **LLMs, RAG systems, and prompt engineering**
+• **Backend Developer** with expertise in **Flask, FastAPI, and API development**
+• Currently working on **intelligent AI solutions and conversational AI systems**
+• Learning **Advanced LLM fine-tuning, Vector databases, and MLOps**
+• Looking to collaborate on **AI/ML projects, LLM applications, and RAG systems**
+• Seeking **AI Engineering/ML internships** to apply cutting-edge AI technologies
+• Ask me about **Python, LLMs, RAG, Prompt Engineering, Flask, FastAPI, ML**
+• Contact: **dipanshu180503@gmail.com**
+• Expertise: **Building chatbots, conversational AI, and automated intelligent systems**
 
 ---
 
